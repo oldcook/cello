@@ -1,9 +1,9 @@
 {
   "name": "@cello/server",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
-    "@cello/common": "^0.0.0"
+    "@cello/common": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "^14.0.5",
